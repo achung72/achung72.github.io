@@ -6,6 +6,10 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+#my{
+zoom: 150%;
+}
+
 @import
   "variables",
   "themes",
