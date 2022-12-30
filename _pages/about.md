@@ -1,15 +1,10 @@
 ---
-layout: about
+layout: page
 title: about
-permalink: /
-subtitle: **PhD Student at Harvard University, alanchung@g.harvard.edu**
+permalink: /about/
+description: test description
 nav: true
-nav_order: 0
-
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+nav_order: 1
 ---
 
 Hi! I'm a current PhD student in the Department of Statistics at Harvard. I graduated from Princeton in 2022, where I majored in Math. My current research interests are in Probability Theory and Theoretical Machine Learning. Some problems that I'm interested in include Theory ML, Random Matrix Theory/Free Probability/University, and recent work in using Statistical Physics method to analyze High Dimensional Systems.
