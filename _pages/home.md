@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: **PhD Student at Harvard University, alanchung@g.harvard.edu**
+subtitle: PhD Student at Harvard University, alanchung@g.harvard.edu
 
 profile:
   align: right
