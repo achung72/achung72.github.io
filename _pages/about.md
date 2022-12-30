@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Hi! I'm a current PhD student in the Department of Statistics at Harvard. I graduated from Princeton in 2022, where I majored in Math. My current research interests are in Probability Theory and Theoretical Machine Learning. Some problems that I'm interested in include Theory ML, Random Matrix Theory/Free Probability/University, and recent work in using Statistical Physics method to analyze High Dimensional Systems.
+I'm a current PhD student in the Department of Statistics at Harvard. I graduated from Princeton in 2022, where I majored in Math. My current research interests are in Probability Theory and Theoretical Machine Learning. Some problems that I'm interested in include Theory ML, Random Matrix Theory/Free Probability/University, and recent work in using Statistical Physics method to analyze High Dimensional Systems.
 
 I've previously worked on problems in RL Theory and in Stochastic Calculus. In RL, I worked with Professor [Chi Jin](https://sites.google.com/view/cjin/home) on Partially Observable MDPs; we worked to extend previous theory in learning POMDPs to the Overcomplete case (when the State space is greater than the Observation space). The difficulty in this problem is that the overcomplete condition causes rank deficiencies in the omission matrix, and thus previous "Method of Moments" techniques, which results in bounds that depend inversely on the smallest eigenvalue, do not work, and thus different techniques are required. The paper can be found [here](https://arxiv.org/abs/2204.08967).
 
