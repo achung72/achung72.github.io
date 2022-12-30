@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at Harvard University
+subtitle: PhD Student at Harvard University, alanchung@g.harvard.edu
 
 profile:
   align: right
@@ -20,13 +20,10 @@ Hi! I'm a current PhD student in the Department of Statistics at Harvard. I grad
 
 I've previously worked on problems in RL Theory and in Stochastic Calculus. A brief description of previous projects are below. For hobbies, I enjoy rock climbing, Age of Empires II, tennis, poker, and I'm trying to learn jazz piano. Some random posts about Age of Empires are in the blog tab.
 
-
-
-
-
-
-
-
+\\
+\\
+\\
+\\
 
 
 
