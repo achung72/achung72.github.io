@@ -5,6 +5,9 @@
       value: Harvard University Department of Statistics
     - name: Undergraduate
       value: Princeton University, Major in Mathematics (graduated 2022)
+      description:
+        - hi
+        - hi
 
 - title: Experience
   type: map
