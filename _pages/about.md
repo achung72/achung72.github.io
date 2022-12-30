@@ -2,7 +2,7 @@
 layout: page
 title: about
 permalink: /about/
-description: test description
+description:
 nav: true
 nav_order: 1
 ---
