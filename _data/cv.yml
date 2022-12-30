@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: map
   contents:
@@ -16,72 +6,37 @@
     - name: Undergraduate
       value: Princeton University, Major in Mathematics (graduated 2022)
 
-
-
 - title: Experience
-  type: time_table
+  type: map
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - name: Citadel Securities
+      value: Quantitative Research Intern
+    - name: Teaching Assistant/Grader at Princeton
+      value: TA for COS302 (Mathematics for Numerical Computing and ML), Grader for COS324 (Introduction to ML)
+    - name: PUMaC (Princeton University Mathematics Competition)
+      value: Problem Writer
+    - name: AwesomeMath Olympiad Training Program
+      value: Teaching Assitant
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Academic Honors
+  type: map
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - name: USAMO
+      value: US Mathematics Olympiad Qualifier (top ~250)
+    - name: USAPhO
+      value: US Physics Olympiad, Honorable Mention
+    - name: USACO
+      value: Gold Division Qualifier
 
-- title: Honors and Awards
-  type: time_table
+- title: Languages/Coding Skills
+  type: map
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - name: Languages
+      value: English (native), Mandarin (fluent), Spanish (proficient)
+    - name: Programming
+      value: Java, Python, C++, Rudimentary website-making (can follow templates)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Rock Climbing, Tennis, Age of Empires II, Poker, Jazz Piano
