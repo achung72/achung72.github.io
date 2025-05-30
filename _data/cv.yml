@@ -15,41 +15,38 @@
       institution: Harvard University
       year: current
       description:
-        - Focus on Probability Theory, ML Theory, and High-Dimensional Statistics.
+        - "Research Interests: Probability Theory, ML Theory, and High-Dimensional Statistics."
     - title: Undergraduate
       institution: Princeton University
       year: Class of 2022
       description:
-        - Thesis: Weak Solutions of the Fokker-Planck Equation Through Particle Systems Interacting Through Their Ranks
+        - "Thesis: Weak Solutions of the Fokker-Planck Equation Through Particle Systems Interacting Through Their Ranks"
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Awards
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Recipient of the NSF GRFP Fellowship
+    - USAMO Qualifier
+    - USAPhO Honorable Mention 
+
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
 
 
