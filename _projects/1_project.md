@@ -5,7 +5,7 @@ description:
 img: assets/img/12.jpg
 importance: 1
 category: technical
-related_publications: true
+related_publications: false
 ---
 
 Why does salt make things taste better? Why would someone add salt in a cake or dessert? In addition to making things taste salty, salt actually helps to bring out flavors in general.
