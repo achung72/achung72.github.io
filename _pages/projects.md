@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Cooking Blog
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Cooking blog, focusing mostly on Chinese food!
 nav: true
 nav_order: 3
-display_categories: [cooking]
+display_categories: [technical]
 horizontal: false
 ---
 

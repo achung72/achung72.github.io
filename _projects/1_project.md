@@ -2,7 +2,7 @@
 layout: page
 title: Function of Salt (why is my food bland?)
 description: 
-img: assets/img/12.jpg
+img: 
 importance: 1
 category: technical
 related_publications: false
