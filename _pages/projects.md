@@ -5,7 +5,7 @@ permalink: /projects/
 description: Cooking blog, focusing mostly on Chinese food!
 nav: true
 nav_order: 3
-display_categories: [technical]
+display_categories: [technical, recipe]
 horizontal: false
 ---
 
