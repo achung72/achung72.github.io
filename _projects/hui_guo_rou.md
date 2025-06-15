@@ -55,7 +55,7 @@ After fried enough, add in the 豆瓣酱 and 豆豉. Fry those (still at medium 
 
 Once the sauce is fried enough and aromatic, add in the ginger and 泡椒 (and garlic). After a bit, add in the 甜面酱 and soy sauce (mix them together first). Then add in a dash of black vinegar (the point of this is just to add some acid to cut through all the fat). Lastly, add in the 蒜苗. Stir fry for a bit to wilt the leaves and add salt/MSG/sugar to taste.
 
-Cooking Notes:
+**Cooking Notes:**
 
 The translation of 蒜苗 is roughly “garlic sprout.” In particular, it is NOT a leek. Supermarkets often label leek as 大蒜苗 so it is kind of confusing which is which.
 
