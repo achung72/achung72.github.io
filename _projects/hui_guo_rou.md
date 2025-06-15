@@ -5,7 +5,7 @@ description: Turns out 蒜苗 isn’t the same as leeks!
 img: assets/img/hui_guo_rou_finished.jpg
 importance: 2
 category: recipe
-giscus_comments: true
+giscus_comments: false
 ---
 
 
