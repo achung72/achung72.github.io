@@ -118,6 +118,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-回锅肉-twice-cooked-pork",
+          title: '回锅肉 (Twice Cooked Pork)',
+          description: "Turns out 蒜苗 isn’t the same as leeks!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hui_guo_rou/";
             },},{
         id: 'social-email',
         title: 'email',
