@@ -118,6 +118,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-葱姜鱼片-ginger-scallion-fish-fillets",
+          title: '葱姜鱼片 (ginger scallion fish fillets)',
+          description: "Fish fillets, with ginger and scallion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cong_jiang_yu/";
+            },},{id: "projects-chinese-food-salt-soy-sauce-msg-and-sugar-and-a-discussion-on-depth-clarity",
+          title: 'Chinese Food--Salt, Soy Sauce, MSG, and Sugar, and a Discussion on Depth/Clarity',
+          description: "Adding salt/soy sauce/MSG/sugar to taste??",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/depth_clarity/";
             },},{id: "projects-回锅肉-twice-cooked-pork",
           title: '回锅肉 (Twice Cooked Pork)',
           description: "Turns out 蒜苗 isn’t the same as leeks!",
