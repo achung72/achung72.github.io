@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 清蒸鱼 (Steamed Fish)
-description: Includes: satisfying oil pour
+description: Includes a satisfying oil pour
 img: assets/img/steamed_fish_title.jpg
-importance: 5
+importance: 2
 category: recipe
 giscus_comments: false
 ---
