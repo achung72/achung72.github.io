@@ -138,9 +138,9 @@ ninja.data = [{
           description: "Some good ol&#39; soup",
           section: "Projects",handler: () => {
               window.location.href = "/projects/niu_rou_mian/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-清蒸鱼-steamed-fish",
+          title: '清蒸鱼 (Steamed Fish)',
+          description: "Includes a satisfying oil pour",
           section: "Projects",handler: () => {
               window.location.href = "/projects/steamed_fish/";
             },},{
