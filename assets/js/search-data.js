@@ -68,12 +68,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-function-of-salt-why-is-my-food-bland",
-          title: 'Function of Salt (why is my food bland?)',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -128,6 +123,11 @@ ninja.data = [{
           description: "Adding salt/soy sauce/MSG/sugar to taste??",
           section: "Projects",handler: () => {
               window.location.href = "/projects/depth_clarity/";
+            },},{id: "projects-function-of-salt-why-is-my-food-bland",
+          title: 'Function of Salt (why is my food bland?)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/function_of_salt/";
             },},{id: "projects-回锅肉-twice-cooked-pork",
           title: '回锅肉 (Twice Cooked Pork)',
           description: "Turns out 蒜苗 isn’t the same as leeks!",
@@ -138,6 +138,11 @@ ninja.data = [{
           description: "Some good ol&#39; soup",
           section: "Projects",handler: () => {
               window.location.href = "/projects/niu_rou_mian/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/steamed_fish/";
             },},{
         id: 'social-email',
         title: 'email',
