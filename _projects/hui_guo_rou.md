@@ -3,7 +3,7 @@ layout: page
 title: 回锅肉 (Twice Cooked Pork)
 description: Turns out 蒜苗 isn’t the same as leeks!
 img: assets/img/hui_guo_rou_finished.jpg
-importance: 5
+importance: 2
 category: recipe
 giscus_comments: false
 ---
