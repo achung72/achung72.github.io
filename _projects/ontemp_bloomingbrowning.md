@@ -3,9 +3,9 @@ layout: page
 title: On temperature: blooming and browning
 description: it's cool to be cool
 img:
-importance: 3
+importance: 1
 category: technical
-giscus_comments: false
+giscus_comments: true
 ---
 
 This post is dedicated to my friend who set off the fire alarm burning spices on the first day of PhD :)
