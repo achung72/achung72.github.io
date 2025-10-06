@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On temperature: blooming and browning
+title: On temperature blooming and browning
 description: it's cool to be cool
 img:
 importance: 1
@@ -8,7 +8,7 @@ category: technical
 giscus_comments: true
 ---
 
-This post is dedicated to my friend who set off the fire alarm burning spices on the first day of PhD :)
+This post is dedicated to my friend who set off the fire alarm burning spices on the first day of PhD 
 
 A lot of novice cooks have ingrained in them that high heat is the pinnacle of good cooking. This idea is all over pop cooking imagery: from depications of cooking Chinese food with sky-high flames, searing a steak on a ripping hot pan, Gordon Ramsay's Hell's Kitchen, and even Burger King's "flame broiled Whopper." When thinking of good cooking, the image of perfectly seared and browned meat comes to mind. As such, many cooks tend fry their spices and aromatics, such as garlic, at very high temperature, thinking that this is what best releases their flavor. The reality is that in most applications, a moderate temperature best helps food develop their flavors and prevents bitter notes from arising.
 
