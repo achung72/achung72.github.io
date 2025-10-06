@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On Temperature: Blooming and Browning
+title: On Temperature; Blooming and Browning
 description: it's cool to be cool
 img:
 importance: 1
