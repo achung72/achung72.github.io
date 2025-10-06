@@ -138,9 +138,9 @@ ninja.data = [{
           description: "Some good ol&#39; soup",
           section: "Projects",handler: () => {
               window.location.href = "/projects/niu_rou_mian/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-on-temperature-blooming-and-browning",
+          title: 'On temperature blooming and browning',
+          description: "it&#39;s cool to be cool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ontemp_bloomingbrowning/";
             },},{id: "projects-清蒸鱼-steamed-fish",
