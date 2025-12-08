@@ -133,6 +133,11 @@ ninja.data = [{
           description: "Turns out 蒜苗 isn’t the same as leeks!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hui_guo_rou/";
+            },},{id: "projects-麻婆豆腐-mapo-tofu",
+          title: '麻婆豆腐 (Mapo Tofu)',
+          description: "good protein source!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mapo_tofu/";
             },},{id: "projects-牛肉面-taiwanese-chinese-beef-noodle-soup",
           title: '牛肉面 (Taiwanese/Chinese Beef Noodle Soup)',
           description: "Some good ol&#39; soup",
