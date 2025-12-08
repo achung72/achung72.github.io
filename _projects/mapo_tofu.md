@@ -3,12 +3,12 @@ layout: page
 title: 麻婆豆腐 (Mapo Tofu)
 description: good protein source!
 img: assets/img/mapotofu_topdown.jpg
-importance: 5
+importance: 6
 category: recipe
 giscus_comments: false
 ---
 
-
+Thanks to the Lopez for reminding me to post this!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
