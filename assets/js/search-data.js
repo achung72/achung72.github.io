@@ -123,6 +123,11 @@ ninja.data = [{
           description: "Burnt cream",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creme_brulee/";
+            },},{id: "projects-dessert-crepes",
+          title: 'Dessert Crepes',
+          description: "Classic nutella + berries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/crepes/";
             },},{id: "projects-chinese-food-salt-soy-sauce-msg-and-sugar-and-a-discussion-on-depth-clarity",
           title: 'Chinese Food--Salt, Soy Sauce, MSG, and Sugar, and a Discussion on Depth/Clarity',
           description: "Adding salt/soy sauce/MSG/sugar to taste??",
