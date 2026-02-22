@@ -3,7 +3,7 @@ layout: page
 title: 土豆烧排骨 (braised short ribs with potato)
 description: a family recipe!
 img: assets/img/shao_pai_gu.jpg
-importance: 7
+importance: 4
 category: recipe
 giscus_comments: false
 ---

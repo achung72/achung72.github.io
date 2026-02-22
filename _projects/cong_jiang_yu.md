@@ -3,7 +3,7 @@ layout: page
 title: 葱姜鱼片 (ginger scallion fish fillets)
 description: Fish fillets, with ginger and scallion
 img: assets/img/cong_jiang_yu.jpg
-importance: 4
+importance: 7
 category: recipe
 giscus_comments: false
 ---
