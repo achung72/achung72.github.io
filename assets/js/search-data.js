@@ -153,6 +153,11 @@ ninja.data = [{
           description: "Includes a satisfying oil pour",
           section: "Projects",handler: () => {
               window.location.href = "/projects/steamed_fish/";
+            },},{id: "projects-土豆烧排骨-braised-short-ribs-with-potato",
+          title: '土豆烧排骨 (braised short ribs with potato)',
+          description: "a family recipe!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tu_dou_shao_pai_gu/";
             },},{
         id: 'social-email',
         title: 'email',
