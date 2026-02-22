@@ -118,6 +118,11 @@ ninja.data = [{
           description: "Fish fillets, with ginger and scallion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cong_jiang_yu/";
+            },},{id: "projects-crème-brûlée",
+          title: 'Crème brûlée',
+          description: "Burnt cream",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/creme_brulee/";
             },},{id: "projects-chinese-food-salt-soy-sauce-msg-and-sugar-and-a-discussion-on-depth-clarity",
           title: 'Chinese Food--Salt, Soy Sauce, MSG, and Sugar, and a Discussion on Depth/Clarity',
           description: "Adding salt/soy sauce/MSG/sugar to taste??",
