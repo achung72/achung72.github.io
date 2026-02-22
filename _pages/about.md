@@ -29,9 +29,9 @@ social: false # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a current PhD student in the Department of Statistics at Harvard. I graduated from Princeton in 2022, where I majored in Mathematics.
+Hi! I'm a current fourth year PhD student in the Department of Statistics at Harvard. I graduated from Princeton in 2022, where I majored in Mathematics.
 
-My current research interests are in Probability Theory, High-Dimensional Statistics, and ML theory. Some topics I am interested in include Random Matrices, Graph Neural Networks, and Concentration Inequalities. 
+My current research interests are in Probability Theory, High-Dimensional Statistics, and ML theory. Some topics I am interested in include Random Matrices, Spin Glass Theory, and Concentration Inequalities. 
 
 I'm an Age of Empires II enthusiast, and I play tennis, poker, and enjoy rock climbing. 
 
