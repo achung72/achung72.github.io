@@ -1,4 +1,37 @@
 
+- title: Publications
+  type: time_table
+  contents:
+
+    - title: '<a href="https://arxiv.org/abs/2204.08967">When Is Partially Observable Reinforcement Learning Not Scary?</a>'
+      institution: 'Qinghua Liu, <strong>Alan Chung</strong>, Csaba Szepesvári, Chi Jin'
+      year: COLT 2022
+
+    - title: '<a href="https://arxiv.org/abs/2402.02692">Statistical Guarantees for Link Prediction using Graph Neural Networks</a>'
+      institution: '<strong>Alan Chung</strong>, Amin Saberi, Morgane Austern'
+      year: Submitted
+
+    - title: Large Deviation Principles for Atypical Eigenvalues of Wigner Matrices
+      institution: '<strong>Alan Chung</strong>, Benjamin McKenna, Mark Sellke'
+      year: To be posted soon
+
+
+
+- title: Works in Progress
+  type: time_table
+  contents:
+
+    - title: 'Large Deviations of the Largest Eigenvalue of a Deformed GOE Matrix with External Field'
+      institution: '<strong>Alan Chung</strong>, Kevin Luo, Benjamin McKenna'
+      year: ''
+
+    - title: 'Wasserstein p Bounds for Degenerate U-Statistics'
+      institution: '<strong>Alan Chung</strong>, Morgane Austern'
+      year: ''
+
+
+
+
 
 - title: Education
   type: time_table
@@ -22,55 +55,3 @@
     - USAMO Qualifier
     - USAPhO Honorable Mention 
 
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-
-
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
-
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
-
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
