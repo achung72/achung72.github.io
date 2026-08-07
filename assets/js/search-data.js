@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cooking-blog",
+  },{id: "nav-cooking-blog",
           title: "Cooking Blog",
           description: "Cooking blog, focusing mostly on Chinese food!",
           section: "Navigation",
