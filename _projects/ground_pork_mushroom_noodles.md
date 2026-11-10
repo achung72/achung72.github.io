@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pork and mushrooms dry noodle
+title: Pork and mushroom dry noodle
 description: Invented ts myself
 img: assets/img/ground_pork_mushroom_noodles_cover.jpeg
 importance: 10
