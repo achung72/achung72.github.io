@@ -131,6 +131,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/function_of_salt/";
+            },},{id: "projects-pork-and-mushrooms-dry-noodle",
+          title: 'Pork and mushrooms dry noodle',
+          description: "Invented ts myself",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ground_pork_mushroom_noodles/";
             },},{id: "projects-回锅肉-twice-cooked-pork",
           title: '回锅肉 (Twice Cooked Pork)',
           description: "Turns out 蒜苗 isn’t the same as leeks!",
