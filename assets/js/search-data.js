@@ -151,6 +151,11 @@ ninja.data = [{
           description: "it&#39;s cool to be cool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ontemp_bloomingbrowning/";
+            },},{id: "projects-sausage-and-bean-stew",
+          title: 'Sausage and bean stew',
+          description: "Fiber and protein: who could ask for more?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sausage_beans/";
             },},{id: "projects-清蒸鱼-steamed-fish",
           title: '清蒸鱼 (Steamed Fish)',
           description: "Includes a satisfying oil pour",
