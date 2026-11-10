@@ -5,7 +5,7 @@ permalink: /projects/
 description: Cooking blog! Presenting Chinese food (with important cooking details), weeknight recipe ideas, and technical notes
 nav: true
 nav_order: 3
-display_categories: [recipe, technical, weekday ideas]
+display_categories: [recipe, weekday ideas, technical]
 horizontal: false
 ---
 
