@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cooking-blog",
           title: "Cooking Blog",
-          description: "Cooking blog, focusing mostly on Chinese food!",
+          description: "Cooking blog! Presenting Chinese food (with important cooking details), weeknight recipe ideas, and technical notes",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
