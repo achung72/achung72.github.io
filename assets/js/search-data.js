@@ -106,6 +106,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-chicken-tikka-masala",
+          title: 'Chicken Tikka Masala',
+          description: "Foray into British food",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chicken-tikka-masala/";
             },},{id: "projects-葱姜鱼片-ginger-scallion-fish-fillets",
           title: '葱姜鱼片 (ginger scallion fish fillets)',
           description: "Fish fillets, with ginger and scallion",
